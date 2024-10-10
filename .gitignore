@@ -1,7 +1,5 @@
 .idea
 db.sqlite3
 pyc
-venv
-pycache
 *.sqlite3
 .env
